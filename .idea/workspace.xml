@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="$TESTCONTAINERS_RYUK_DISABLED$" id="905639a4-129d-4ca8-9bea-a27c494282db" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="$TESTCONTAINERS_RYUK_DISABLED$" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="$TESTCONTAINERS_RYUK_DISABLED$" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="$TESTCONTAINERS_RYUK_DISABLED$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2MQ1pVQbdkeOINfMcbNZP4ol0Zu" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="$TESTCONTAINERS_RYUK_DISABLED$" />
+    <option name="autoscrollToSource" value="$TESTCONTAINERS_RYUK_DISABLED$" />
+    <option name="hideEmptyMiddlePackages" value="$TESTCONTAINERS_RYUK_DISABLED$" />
+    <option name="showLibraryContents" value="$TESTCONTAINERS_RYUK_DISABLED$" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.format.on.save.advertiser.fired": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "go.import.settings.migrated": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="basics" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ThisReferenceExampleJava8">
+    <configuration name="ExceptionHandlingExample" type="Application" factoryName="Application" temporary="$TESTCONTAINERS_RYUK_DISABLED$" nameIsGenerated="$TESTCONTAINERS_RYUK_DISABLED$">
+      <option name="MAIN_CLASS_NAME" value="ExceptionHandlingExample" />
+      <module name="Java_Learn" />
+      <method v="2">
+        <option name="Make" enabled="$TESTCONTAINERS_RYUK_DISABLED$" />
+      </method>
+    </configuration>
+    <configuration name="ThisReferenceExample" type="Application" factoryName="Application" temporary="$TESTCONTAINERS_RYUK_DISABLED$" nameIsGenerated="$TESTCONTAINERS_RYUK_DISABLED$">
+      <option name="MAIN_CLASS_NAME" value="ThisReferenceExample" />
+      <module name="Java_Learn" />
+      <method v="2">
+        <option name="Make" enabled="$TESTCONTAINERS_RYUK_DISABLED$" />
+      </method>
+    </configuration>
+    <configuration name="ThisReferenceExampleJava8" type="Application" factoryName="Application" temporary="$TESTCONTAINERS_RYUK_DISABLED$" nameIsGenerated="$TESTCONTAINERS_RYUK_DISABLED$">
+      <option name="MAIN_CLASS_NAME" value="ThisReferenceExampleJava8" />
+      <module name="Java_Learn" />
+      <method v="2">
+        <option name="Make" enabled="$TESTCONTAINERS_RYUK_DISABLED$" />
+      </method>
+    </configuration>
+    <configuration name="Unit1Java8Solution" type="Application" factoryName="Application" temporary="$TESTCONTAINERS_RYUK_DISABLED$" nameIsGenerated="$TESTCONTAINERS_RYUK_DISABLED$">
+      <option name="MAIN_CLASS_NAME" value="basics.Unit1Java8Solution" />
+      <module name="Java_Learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basics.*" />
+          <option name="ENABLED" value="$TESTCONTAINERS_RYUK_DISABLED$" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="$TESTCONTAINERS_RYUK_DISABLED$" />
+      </method>
+    </configuration>
+    <configuration name="Unit1Java8SolutionWithPredicate" type="Application" factoryName="Application" temporary="$TESTCONTAINERS_RYUK_DISABLED$" nameIsGenerated="$TESTCONTAINERS_RYUK_DISABLED$">
+      <option name="MAIN_CLASS_NAME" value="basics.Unit1Java8SolutionWithPredicate" />
+      <module name="Java_Learn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basics.*" />
+          <option name="ENABLED" value="$TESTCONTAINERS_RYUK_DISABLED$" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="$TESTCONTAINERS_RYUK_DISABLED$" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ThisReferenceExampleJava8" />
+        <item itemvalue="Application.ThisReferenceExample" />
+        <item itemvalue="Application.ExceptionHandlingExample" />
+        <item itemvalue="Application.Unit1Java8SolutionWithPredicate" />
+        <item itemvalue="Application.Unit1Java8Solution" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="$TESTCONTAINERS_RYUK_DISABLED$" transferred="$TESTCONTAINERS_RYUK_DISABLED$" />
+  <component name="TaskManager">
+    <task active="$TESTCONTAINERS_RYUK_DISABLED$" id="Default" summary="Default task">
+      <changelist id="905639a4-129d-4ca8-9bea-a27c494282db" name="Changes" comment="" />
+      <created>1677685176704</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677685176704</updated>
+      <workItem from="1677685178787" duration="3232000" />
+      <workItem from="1677751459520" duration="2000" />
+      <workItem from="1677761840551" duration="763000" />
+      <workItem from="1677867833984" duration="8735000" />
+      <workItem from="1678113583362" duration="184000" />
+      <workItem from="1678184114724" duration="558000" />
+      <workItem from="1678362764737" duration="4923000" />
+      <workItem from="1678514464830" duration="514000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>false</integration-enabled>
+    <settings-migrated>$TESTCONTAINERS_RYUK_DISABLED$</settings-migrated>
+  </component>
+</project>
