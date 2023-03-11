@@ -5,7 +5,7 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-public class Unit1Java7Solution {
+public class StandardFunctionalInterfaceJava7Solution {
 
     public static void main(String[] args) {
 

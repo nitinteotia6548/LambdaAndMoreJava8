@@ -3,7 +3,7 @@ package basics;
 import java.util.Arrays;
 import java.util.List;
 
-public class Unit1Java8Solution {
+public class StandardFunctionalInterfaceJava8Solution {
 
     public static void main(String[] args) {
 
